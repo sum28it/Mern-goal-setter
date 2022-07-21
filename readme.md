@@ -10,6 +10,6 @@
 ## Frontend 
 ### React Routers to handle diffeent url's
 ### Axios for making API requests
-### Redux - For managing state
+### Redux - Front-end Data store for managing state of application
 
 
